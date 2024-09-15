@@ -15,7 +15,7 @@ This project involves developing a Python script to detect anomalies in a contin
 2. Create and activate a virtual environment:
     ```bash
     python -m venv venv
-    source venv/bin/activate
+    venv\Scripts\activate
     ```
 3. Install dependencies:
     ```bash
